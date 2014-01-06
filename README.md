@@ -11,7 +11,7 @@ Features
 + Highlighting for invalid and deprecated syntax
 + Highlighting for diffs.
 + Support for semi-WYSIWYG (what you see is sort of what you get?) markup in LaTeX, Markdown, and [X]HTML.
-+ Support for the great ![MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) package (WIP).
++ Support for the great [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) package.
 
 Screenshots
 -----------
