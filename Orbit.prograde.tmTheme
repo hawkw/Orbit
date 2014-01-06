@@ -159,7 +159,7 @@ constant.character.escape</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#bcd3ef</string>
+				<string>#99b0d1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -172,7 +172,7 @@ constant.character.escape</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#9ab1d1</string>
+				<string>#7185a4</string>
 			</dict>
 		</dict>
 		<dict>
