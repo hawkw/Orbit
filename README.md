@@ -22,6 +22,6 @@ Using the custom MarkdownEditing scheme
 Using the custom scheme for MarkdownEditing is very easy - just add the following to the MarkdownEditing user settings files for Github-Flavored Markdown, MultiMarkdown, and standard Markdown:
 ```json
 {
-    "color_scheme": "Packages/Orbit/Orbit.prograde.tmTheme",
+    "color_scheme": "Packages/Orbit Color Scheme/Orbit.prograde.tmTheme",
 }
 ```
