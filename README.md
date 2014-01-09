@@ -16,6 +16,14 @@ Features
 Screenshots
 -----------
 
+### Prograde:
+Editing Java:
+![image](Screenshots/prograde_java.png)
+Editing Python:
+![image](Screenshots/prograde_python.png)
+Editing Markdown (with MarkdownEditing installed):
+![image](Screenshots/prograde_markdownediting.png)
+
 Using the custom MarkdownEditing scheme
 ---------------------------------------
 
