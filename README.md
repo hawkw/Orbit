@@ -24,6 +24,8 @@ Editing Python:
 Editing Markdown (with MarkdownEditing installed):
 ![image](Screenshots/prograde_markdownediting.png)
 
+Font is Monaco 10 with anti-aliasing disabled.
+
 Using the custom MarkdownEditing scheme
 ---------------------------------------
 
